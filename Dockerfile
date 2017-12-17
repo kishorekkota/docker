@@ -1,3 +1,3 @@
 # Run Node
-RUN echo "installing Node JS"
 FROM node
+#RUN echo "installing Node JS"
